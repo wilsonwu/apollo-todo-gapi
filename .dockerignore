@@ -1,0 +1,4 @@
+node_modules
+/data/user.json
+/data/todo/*.json
+npm-debug.log
